@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "くらべられっ子",
+  "base_artist": "ツユ",
+  "createdAt": "2026-02-26T10:04:50.419663Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Compared Child (English Cover) 【JubyPhonic】 くらべられっ子",
+      "artist": "JubyPhonic",
+      "has_synced": true,
+      "path": "select/01_Compared_Child_(English_Cover)_【JubyPhonic】_くらべられっ子_JubyPhonic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "くらべられっ子",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/02_くらべられっ子_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "09. くらべられっ子",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/03_09._くらべられっ子_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "くらべられっ子",
+      "artist": "TUYU",
+      "has_synced": true,
+      "path": "select/04_くらべられっ子_TUYU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "くらべられっ子 (TUYU Remix)",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/05_くらべられっ子_(TUYU_Remix)_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ツユ - くらべられっ子 (TUYU Remix) MV",
+      "artist": "TUYU",
+      "has_synced": true,
+      "path": "select/06_ツユ_-_くらべられっ子_(TUYU_Remix)_MV_TUYU.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ツユ - くらべられっ子 MV",
+      "artist": "TUYU",
+      "has_synced": true,
+      "path": "select/07_ツユ_-_くらべられっ子_MV_TUYU.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ツユ - くらべられっ子 (TUYU Remix) MV",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/08_ツユ_-_くらべられっ子_(TUYU_Remix)_MV_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "くらべられっ子",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/09_くらべられっ子_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "くらべられっ子",
+      "artist": "TUYU",
+      "has_synced": true,
+      "path": "select/10_くらべられっ子_TUYU.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "くらべられっ子",
+      "artist": "TUYU (ツユ)",
+      "has_synced": true,
+      "path": "select/11_くらべられっ子_TUYU_(ツユ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "くらべられっ子",
+      "artist": "つゆ",
+      "has_synced": false,
+      "path": "select/pl_01_くらべられっ子_つゆ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "くらべられっ子",
+      "artist": "つゆ",
+      "has_synced": false,
+      "path": "select/pl_02_くらべられっ子_つゆ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "くらべられっ子",
+      "artist": "つゆ",
+      "has_synced": false,
+      "path": "select/pl_03_くらべられっ子_つゆ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "くらべられっ子",
+      "artist": "つゆ",
+      "has_synced": false,
+      "path": "select/pl_04_くらべられっ子_つゆ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "くらべられっ子",
+      "artist": "つゆ",
+      "has_synced": false,
+      "path": "select/pl_05_くらべられっ子_つゆ.txt"
+    }
+  ]
+}
