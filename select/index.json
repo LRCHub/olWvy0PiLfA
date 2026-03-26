@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "くらべられっ子",
   "base_artist": "ツユ",
-  "createdAt": "2026-02-26T10:04:50.419663Z",
+  "createdAt": "2026-03-26T09:14:45.508621Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -33,8 +33,8 @@
       "source": "lrclib",
       "title": "くらべられっ子",
       "artist": "TUYU",
-      "has_synced": true,
-      "path": "select/04_くらべられっ子_TUYU.lrc"
+      "has_synced": false,
+      "path": "select/04_くらべられっ子_TUYU.txt"
     },
     {
       "id": "lrclib_5",
@@ -93,6 +93,14 @@
       "path": "select/11_くらべられっ子_TUYU_(ツユ).lrc"
     },
     {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "くらべられっ子 (instrumental)",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/12_くらべられっ子_(instrumental)_ツユ.lrc"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "くらべられっ子",
@@ -131,6 +139,24 @@
       "artist": "つゆ",
       "has_synced": false,
       "path": "select/pl_05_くらべられっ子_つゆ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "くらべられっ子",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/localdb_01_くらべられっ子_ツユ.lrc",
+      "repo_name": "olWvy0PiLfA"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "くらべられっ子",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/localdb_02_くらべられっ子_ツユ.lrc",
+      "repo_name": "4TmzJzGXbB4"
     }
   ]
 }
